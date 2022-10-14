@@ -7,4 +7,4 @@
 
 ![Version: 10.03.2022](https://img.shields.io/badge/version-10.03.2022-informational)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@FelyxYohanes)&nbsp;
-[![GitHub: OrangMuda](https://img.shields.io/github/followers/FelyxYohanes?label=follow&style=social)](https://github.com/FelyxYohanes)&nbsp;
+[![GitHub: FelyxYohanes](https://img.shields.io/github/followers/FelyxYohanes?label=follow&style=social)](https://github.com/FelyxYohanes)&nbsp;
